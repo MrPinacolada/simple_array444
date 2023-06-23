@@ -30,7 +30,6 @@ while (i < 31) {
   arr.value.push(obj)
   i++
 }
-onMounted(() => {})
 </script>
 
 <style>
